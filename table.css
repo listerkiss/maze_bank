@@ -1,0 +1,23 @@
+p {
+    text-align: center;
+}
+
+table {
+    background-color: rgba(255, 0, 0, 0.368);
+    border-collapse: collapse;
+    width: 80vw;
+    padding: 30px;
+    margin: 15px auto;
+}
+
+tr {
+    border: 2px white solid;
+}
+
+td {
+    padding: 5px 15px 5px 15px;
+}
+
+.cell1 {
+    width: 60%;
+}
