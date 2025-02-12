@@ -33,12 +33,12 @@ L'objectif de ce projet était de pratiquer et d'améliorer mes compétences en 
 Clonez ce dépôt sur votre machine locale :
 
 ```bash
-  Copier Modifier git clone https://github.com/listerkiss/maze_bank.git
+  git clone https://github.com/listerkiss/maze_bank.git
 ```
 
 Accédez au dossier du projet :
 ```bash
-Copier Modifier cd maze_bank
+  cd maze_bank
 ```
 
 Ouvrez le fichier index.html dans votre navigateur préféré pour voir la page.
